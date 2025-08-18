@@ -2,7 +2,7 @@
 
 <img align="right" width="200" src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Saurav's avatar">
 
-## 🚀 About Me
+## 🚀 About
 I'm a passionate developer who loves building scalable web apps, contributing to open source, and learning new tech.  
 Currently exploring AI, cloud computing, and full-stack development.
 
