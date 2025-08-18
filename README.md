@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Saurav!
+# Hi there 👋, I'm Saurabh!
 
 <img align="right" width="200" src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Saurav's avatar">
 
