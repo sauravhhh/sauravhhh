@@ -1,7 +1,7 @@
 # Hi there, I'm Saurabh! 👋
 
 
-## 🚀 About me
+## About me
 I'm a passionate developer who loves building scalable web apps, contributing to open source, and learning new tech.  
 Currently exploring AI, cloud computing, and full-stack development.
 
@@ -9,7 +9,7 @@ Currently exploring AI, cloud computing, and full-stack development.
 - 🌱 I’m learning: Next.js, TypeScript, and AWS
 - 🧑‍💻 Most used languages: JavaScript, Python, Go
 
-## 💡 Skills
+## Skills
 - Frontend: React, Next.js, HTML/CSS, Tailwind
 - Backend: Node.js, Express, Python, Go
 - Cloud/DevOps: AWS, Docker, GitHub Actions
