@@ -35,10 +35,10 @@ I love photography 📷 and am a huge fan of sci-fi novels 🚀.
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 ---
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yourusername)
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/saurabh)
+<a href="https://www.buymeacoffee.com/saurabh" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="35" />
 </a>
-<a href="https://www.paypal.com/paypalme/yourusername" target="_blank">
+<a href="https://www.paypal.com/paypalme/saurabh" target="_blank">
   <img src="https://img.shields.io/badge/Support%20with-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support with PayPal" height="35" />
 </a>
