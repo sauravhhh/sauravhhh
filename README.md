@@ -1,13 +1,13 @@
-# Hi there, I'm Saurabh! 👋
+# Hi there, I'm Saurabh!
 
 
 ## About me
-I'm a passionate developer who loves building scalable web apps, contributing to open source, and learning new tech.  
+I'm a passionate developer who loves building web apps, contributing to open source, and learning new tech.  
 Currently exploring AI, cloud computing, and full-stack development.
 
 - 🔭 I’m currently working on: [My Cool Project](https://github.com/sauravhhh/my-cool-project)
 - 🌱 I’m learning: Next.js, TypeScript, and AWS
-- 🧑‍💻 Most used languages: JavaScript, Python, Go
+- 🧑‍💻 Most used languages: HTML, JavaScript, CSS, Python
 
 ## Skills
 - Frontend: React, Next.js, HTML/CSS, Tailwind
