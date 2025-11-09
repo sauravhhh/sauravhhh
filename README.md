@@ -5,7 +5,7 @@
 I'm a passionate developer who loves building web apps, contributing to open source, and learning new tech.  
 Currently exploring AI, cloud computing, and full-stack development.
 
-- 🔭 I’m currently working on: [My Cool Project](https://github.com/sauravhhh/my-cool-project)
+- 🔭 I’m currently working on: TimeCapsule
 - 🌱 I’m learning: Next.js, TypeScript, and AWS
 - 🧑‍💻 Most used languages: HTML, JavaScript, CSS, Python
 
@@ -39,4 +39,6 @@ I love photography 📷 and am a huge fan of sci-fi novels 🚀.
 <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="35" />
 </a>
-
+<a href="https://www.paypal.com/paypalme/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/Support%20with-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support with PayPal" height="35" />
+</a>
